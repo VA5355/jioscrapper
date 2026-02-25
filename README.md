@@ -1,2 +1,4 @@
-# jioscrapper
-node js scrapper for  mart data , with image and pricing for display as searched products
+npm install express playwright-extra puppeteer-extra-plugin-stealth playwright
+
+
+npm install   playwright-extra puppeteer-extra-plugin-stealth playwright
