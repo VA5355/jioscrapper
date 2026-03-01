@@ -28,4 +28,4 @@ RUN npx playwright install chromium
 #RUN npm run build
 
 # Run Node index.js file
-CMD [ "node", "server-jio-puppet.js" ]
+CMD [ "node", "server-jio-puppet-new.js" ]
