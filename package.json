@@ -4,12 +4,14 @@
   "description": "Express app with Undici and Cheerio",
   "main": "server-jio.js",
   "scripts": {
-    "start": "node server-jio-puppet.js"
+    "start": "node server-jio-puppet-new.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
+    "dotenv": "^17.3.1",
     "express": "^4.18.2",
     "got-scraping": "^4.2.0",
+    "mongoose": "^9.2.3",
     "playwright": "^1.58.2",
     "chromium": "3.0.3",
     "playwright-extra": "^4.3.6",
