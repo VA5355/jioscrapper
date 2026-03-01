@@ -16,6 +16,7 @@ EXPOSE 3000
 #COPY server-jio-puppet.js /app/
 COPY package*.json ./
 COPY server-jio-puppet.js ./
+COPY server-jio-puppet-new.js ./
 #COPY src/ /app/src/
 #COPY tsconfig.json /app/
 
